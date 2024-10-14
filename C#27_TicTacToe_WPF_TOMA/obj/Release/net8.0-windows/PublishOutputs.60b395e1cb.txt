@@ -1,0 +1,5 @@
+C:\Users\metin\Desktop\tictactoe\C#27_TicTacToe_WPF_TOMA.exe
+C:\Users\metin\Desktop\tictactoe\C#27_TicTacToe_WPF_TOMA.dll
+C:\Users\metin\Desktop\tictactoe\C#27_TicTacToe_WPF_TOMA.deps.json
+C:\Users\metin\Desktop\tictactoe\C#27_TicTacToe_WPF_TOMA.runtimeconfig.json
+C:\Users\metin\Desktop\tictactoe\C#27_TicTacToe_WPF_TOMA.pdb
